@@ -50,10 +50,6 @@
 		quote="Building REST APIs is easy, building a good API is where the hard work really starts"
 	/>
 
-	<FileWrap
-		file="./../content/example.md"
-	/>
-
 	<OneSlot title="A Standard Controller">
 		<Code lang="php">
 			{`
